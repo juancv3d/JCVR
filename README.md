@@ -19,8 +19,8 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code)
-![vim](https://img.shields.io/badge/-vim-019733?logo=Vim&style=for-the-badge&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
+
