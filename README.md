@@ -14,7 +14,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
       <a href="https://twitter.com/juancv3d"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/"><img alt="LinkedIn" title="LinkedIn" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png"></a>
     </p>
 
-## ⚡ Technologies and Tools
+## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
@@ -25,6 +25,6 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)
 
-
+## &#x1f4c8; GitHub Stats
 [![juancv3d's github stats](https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/juancv3d)
 
