@@ -22,7 +22,10 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
+![Kali](https://img.shields.io/static/v1?style=flat-square&label=&logo=Kali%20Linux&message=Kali&color=black)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
+![Burp Suite](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Burp%20Suite&color=black)
+![VBox](https://img.shields.io/static/v1?style=flat-square&label=&logo=VirtualBox&message=VitualBox&color=black)  
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&color=black)
@@ -31,7 +34,6 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Marlin](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Marlin%202.0&color=black)
 ![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
 ![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
-  
   
 ## &#x1f4c8; GitHub Stats
 <a href="https://www.3dimpressio.co/"><img height="137px" src="https://github-readme-stats.vercel.app/api?username=juancv3d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=15&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
