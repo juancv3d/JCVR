@@ -26,6 +26,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&color=black)
 ![Fusion 360](https://img.shields.io/static/v1?style=flat-square&label=&logo=autodesk&message=Fusion%20360&color=black)
+![Prusa Slicer](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Prusa%20Slicer&color=black)
 ![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
 ![Matlab](https://img.shields.io/static/v1?style=flat-square&label=&logo=Matrix&message=MATLAB&color=black)
 ![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
