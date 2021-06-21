@@ -13,3 +13,9 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
     <p align="left">
       <a href="https://twitter.com/juancv3d"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/"><img alt="LinkedIn" title="LinkedIn" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png"></a>
     </p>
+
+## ⚡ Technologies
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi)
