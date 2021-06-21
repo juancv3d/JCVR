@@ -8,11 +8,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 - 👨🏽‍💻 I’m currently working on a crypto notifier :wink:;
 - 🌱 I’m currently learning Python and Ethical Hacking; 
 - 💬 Ask me about anything, I am happy to help;
-- 📫 How to reach me: [@juancv3d](https://www.instagram.com/juancv3d);
-
-    <p align="left">
-      <a href="https://twitter.com/juancv3d"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/"><img alt="LinkedIn" title="LinkedIn" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png"></a>
-    </p>
+- 📫 How to reach me:
   
   &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juancv3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/)   &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/juancv3d/)  &nbsp; <a href="juancvilla96@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
