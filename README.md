@@ -13,9 +13,8 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
     <p align="left">
       <a href="https://twitter.com/juancv3d"><img alt="Twitter" title="Twitter" height="30" width="30" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg"></a> &nbsp; <a href="https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/"><img alt="LinkedIn" title="LinkedIn" width="32" height="32" src="https://cdn.iconscout.com/icon/free/png-256/linkedin-189-721962.png"></a>
     </p>
-      #### 📫 How to reach me:
   
-  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/sciencepal)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/adityapal1/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/facebook-new.png" width="3.5%"/>](https://www.facebook.com/sciencepal/)  &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/aditya_sciencepal/)  &nbsp; <a href="mailto:aditya.pal.science@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
+  &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>](https://twitter.com/juancv3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>](https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/)   &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>](https://www.instagram.com/juancv3d/)  &nbsp; <a href="juancvilla96@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
