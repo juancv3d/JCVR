@@ -18,6 +18,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&logo=GNU%20bash&message=Bash&color=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&color=black)
 ![Vim](https://img.shields.io/static/v1?style=flat-square&label=&logo=Vim&message=Vim&color=black)
+![Matlab](https://img.shields.io/static/v1?style=flat-square&label=&logo=Matrix&message=MATLAB&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
@@ -29,7 +30,6 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Prusa Slicer](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Prusa%20Slicer&color=black)
 ![Marlin](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Marlin%202.0&color=black)
 ![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
-![Matlab](https://img.shields.io/static/v1?style=flat-square&label=&logo=Matrix&message=MATLAB&color=black)
 ![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
   
   
