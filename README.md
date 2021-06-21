@@ -26,7 +26,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![Burp Suite](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Burp%20Suite&color=black)
 ![VBox](https://img.shields.io/static/v1?style=flat-square&label=&logo=VirtualBox&message=VitualBox&color=black)
-  ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)  
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)  
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&color=black)
 ![Fusion 360](https://img.shields.io/static/v1?style=flat-square&label=&logo=autodesk&message=Fusion%20360&color=black)
