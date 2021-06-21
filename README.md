@@ -5,6 +5,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 
 **Talking about Personal Stuffs:**
 
+- 🔭 I'm studing Mechanical Engineering
 - 👨🏽‍💻 I’m currently working on a crypto notifier :wink:;
 - 🌱 I’m currently learning Python and Ethical Hacking; 
 - 💬 Ask me about anything, I am happy to help;
