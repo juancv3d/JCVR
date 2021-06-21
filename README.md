@@ -20,7 +20,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 ![Vim](https://img.shields.io/static/v1?style=flat-square&label=&logo=Vim&message=Vim&color=black)
 ![Matlab](https://img.shields.io/static/v1?style=flat-square&label=&logo=Matrix&message=MATLAB&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white)  
