@@ -1,7 +1,7 @@
 [![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
 ## Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 
-Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](https://www.3dimpressio.co) 
+Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](https://www.3dimpressio.co).
 
 **Talking about Personal Stuffs:**
 
