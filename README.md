@@ -6,7 +6,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 **Talking about Personal Stuffs:**
 
 - 🔭 I'm studyng Mechanical Engineering
-- 👨🏽‍💻 I’m currently working on a [crypto tweets notifier](https://cryptotweets.netlify.app) :wink:
+- 👨🏽‍💻 I’m currently working on a [Crypto Tweets Notifier](https://cryptotweets.netlify.app) :wink:
 - 🌱 I’m currently learning Python and Ethical Hacking
 - 💬 Ask me about anything!
 - 📫 How to reach me:
