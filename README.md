@@ -3,7 +3,7 @@
 Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 </h1>
 <p align=center>
-  Hi, I'm Juan Camilo Villarreal<a href=https://github.com/juancv3d>Juan Camilo Villarreal</a>, a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at <a href=https://www.3dimpressio.co>Impressio Technologies</a>
+  Hi, I'm <a href=https://github.com/juancv3d>Juan Camilo Villarreal</a>, a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at <a href=https://www.3dimpressio.co>Impressio Technologies</a>
   </p>
 <h2 align=center>
 Talking about Personal Stuffs:
