@@ -1,6 +1,6 @@
 [![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
-<h1 align=center>
-  <a href="https://git.io/typing-svg">
+<h1 align="center">
+  <a align="center" href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=fira+code&color=%23F7D66DFC&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+from+Colombia...;Self-Taugh+Programmer...;Welcome+to+my+Github+page!">
   </a>
 </h1>
