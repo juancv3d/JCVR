@@ -1,19 +1,19 @@
 [![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
-<h1>
-## Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+<h1 align=center>
+Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
 </h1>
 <p align=center>
-Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](<a href=https://www.3dimpressio.co>Impressio Technologies</a>
+  Hi, I'm Juan Camilo Villarreal<a href=https://github.com/juancv3d>Juan Camilo Villarreal</a>, a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at <a href=https://www.3dimpressio.co>Impressio Technologies</a>
   </p>
-<h2>
-**Talking about Personal Stuffs:**
+<h2 align=center>
+Talking about Personal Stuffs:
 </h2>
 <p align=center>
   <br>
 - 🔭 I'm studyng Mechanical Engineering
   </br>
   <br>
-- 👨🏽‍💻 I’m currently working on a [Crypto Tweets Notifier](https://cryptotweets.netlify.app) :wink:
+- 👨🏽‍💻 I’m currently working on a <a href=https://cryptotweets.netlify.app>Crypto Tweets Notifier</a> :wink:
   </br>
   <br>
 - 🌱 I’m currently learning Web Development and Ethical Hacking
