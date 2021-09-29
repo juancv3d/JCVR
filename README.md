@@ -1,26 +1,27 @@
 [![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
 ## Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-
+<h1 align=center>
 Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](https://www.3dimpressio.co).
+  </h1>
 
 **Talking about Personal Stuffs:**
-<h5 align=center>
-  <code>
+<p align=center>
+  <br>
 - 🔭 I'm studyng Mechanical Engineering
-  </code>
-  <code>
+  </br>
+  <br>
 - 👨🏽‍💻 I’m currently working on a [Crypto Tweets Notifier](https://cryptotweets.netlify.app) :wink:
-  </code>
-  <code>
+  </br>
+  <br>
 - 🌱 I’m currently learning Web Development and Ethical Hacking
-  </code>
-  <code>
+  </br>
+  <br>
 - 💬 Ask me about anything!
-  </code>
-  <code>
+  </br>
+  <br>
 - 📫 How to reach me:
-  </code>
-  </h5>
+  </br>
+  </p>
   
   &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/juancv3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/)   &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/juancv3d/)  &nbsp; <a href="mailto:juancvilla96@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
 
