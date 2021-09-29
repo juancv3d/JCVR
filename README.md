@@ -53,7 +53,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
       <img align="left" width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=radical&border=61dafb&hide_border=true" alt="juancv3d" />
     </a>
     <a href="https://www.3dimpressio.co/" title="Go to Source">
-      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=radical&border_color=61dafb&hide_border=true" />
+      <img align="right" width=400 src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=radical&hide=prs&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
