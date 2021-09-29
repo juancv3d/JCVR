@@ -50,7 +50,6 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
  -->
 
 <h2>&#x1f4c8; GitHub Stats</h2>
-<br>
 <p align=center>
   <div align=center>
     <a href="https://www.3dimpressio.co/" title="Go to Source">
