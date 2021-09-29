@@ -1,5 +1,5 @@
 [![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
-## [![](https://readme-typing-svg.herokuapp.com?color=17C1F7&lines=Hello,+There!+%F0%9F%91%8B;Nice+to+meet+you!)]()
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=fira+code&color=%23F7D66DFC&lines=Hello%2C+There!+%F0%9F%91%8B;I'm+from+Colombia...;Self-Taugh+Programmer...;Welcome+to+my+Github+page!)](https://git.io/typing-svg)
 
 Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](https://www.3dimpressio.co).
 
