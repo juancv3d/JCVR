@@ -5,11 +5,21 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 
 **Talking about Personal Stuffs:**
 <h5 align=center>
+  <code>
 - 🔭 I'm studyng Mechanical Engineering
+  </code>
+  <code>
 - 👨🏽‍💻 I’m currently working on a [Crypto Tweets Notifier](https://cryptotweets.netlify.app) :wink:
+  </code>
+  <code>
 - 🌱 I’m currently learning Web Development and Ethical Hacking
+  </code>
+  <code>
 - 💬 Ask me about anything!
+  </code>
+  <code>
 - 📫 How to reach me:
+  </code>
   </h5>
   
   &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/juancv3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/)   &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/juancv3d/)  &nbsp; <a href="mailto:juancvilla96@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
