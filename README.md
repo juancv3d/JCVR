@@ -63,6 +63,6 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
     </a>
   </div>
   <br>-->
-  <img src="https://activity-graph.herokuapp.com/graph?username=juancv3d&theme=nightowl&border_color=61dafb&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=juancv3d&theme=redical&border_color=61dafb&hide_border=true" width="100%"/>
 </p>
 
