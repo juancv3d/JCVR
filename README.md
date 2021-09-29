@@ -30,7 +30,7 @@ Talking about Personal Stuffs:
 <h2 align=center>
 🔧 Technologies & Tools
   </h2>
-  <code align=center>
+  <p align=center>
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&logo=GNU%20bash&message=Bash&color=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&color=black)
@@ -49,7 +49,7 @@ Talking about Personal Stuffs:
 ![Marlin](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Marlin%202.0&color=black)
 ![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
 ![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
-  </code>
+  </p>
   <!--
   <h2> &#x1f4c8; GitHub Stats</h2>
   <br>
