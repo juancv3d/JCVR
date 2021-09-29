@@ -39,7 +39,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
     <div>
       <a href="https://www.3dimpressio.co/"><img align=left height="120px" src="https://github-readme-stats.vercel.app/api?username=juancv3d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=15&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
       </a>
-        <img align=rigth height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancv3d&hide_title=true&hide_border=true&layout=compact&   langs_count=6&exclude_repo=false,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
+        <img align=rigth height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancv3d&hide_title=true&hide_border=true&layout=compact&   langs_count=6&count_private=true&exclude_repo=false,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
       </a>
   </div>
  </p>
@@ -49,10 +49,10 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=100% src="https://github-readme-streak-stats.herokuapp.com/?user=zumrudu-anka&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=500 src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=100% src="https://github-readme-stats.vercel.app/api?username=zumrudu-anka&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=500 src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
