@@ -50,10 +50,10 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 <p align=center>
   <div align=center>
     <a href="https://www.3dimpressio.co/" title="Go to Source">
-      <img align="left" height=150 width=400 src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=radical&border=61dafb&hide_border=true" alt="juancv3d" />
+      <img align="left" height=150 src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=radical&border=61dafb&hide_border=true" alt="juancv3d" />
     </a>
     <a href="https://www.3dimpressio.co/" title="Go to Source">
-      <img align="right" height=150 width=400 src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=radical&hide=prs&border_color=61dafb&hide_border=true" />
+      <img align="right" height=150 src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=radical&hide=prs&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br><br><br><br><br><br><br><br><br>
