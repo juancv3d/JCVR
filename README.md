@@ -1,37 +1,20 @@
 [![](https://raw.githubusercontent.com/juancv3d/juancv3d/main/Video.gif)](https://www.3dimpressio.co/)
-<h1 align=center>
-Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
-</h1>
-<p align=center>
-  Hi, I'm <a href=https://github.com/juancv3d>Juan Camilo Villarreal</a>, a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at <a href=https://www.3dimpressio.co>Impressio Technologies</a>
-  </p>
-<h2 align=center>
-Talking about Personal Stuffs:
-</h2>
-<p align=center>
-  <br>
+## Hey there   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px">  
+
+Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](https://www.3dimpressio.co).
+
+**Talking about Personal Stuffs:**
+
 - 🔭 I'm studyng Mechanical Engineering
-  </br>
-  <br>
-- 👨🏽‍💻 I’m currently working on a <a href=https://cryptotweets.netlify.app>Crypto Tweets Notifier</a> :wink:
-  </br>
-  <br>
+- 👨🏽‍💻 I’m currently working on a [Crypto Tweets Notifier](https://cryptotweets.netlify.app) :wink:
 - 🌱 I’m currently learning Web Development and Ethical Hacking
-  </br>
-  <br>
 - 💬 Ask me about anything!
-  </br>
-  <br>
 - 📫 How to reach me:
-  </br>
-  </p>
   
   &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/juancv3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/)   &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/juancv3d/)  &nbsp; <a href="mailto:juancvilla96@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
-<h2 align=center>
-🔧 Technologies & Tools
-  </h2>
-  <p align=center>
-    !<a refhttps://img.shields.io/badge/-Python-black?style=flat-square&logo=Python></a>
+
+## 🔧 Technologies & Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&logo=GNU%20bash&message=Bash&color=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&color=black)
 ![Vim](https://img.shields.io/static/v1?style=flat-square&label=&logo=Vim&message=Vim&color=black)
@@ -49,7 +32,6 @@ Talking about Personal Stuffs:
 ![Marlin](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Marlin%202.0&color=black)
 ![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
 ![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
-  </p>
   <!--
   <h2> &#x1f4c8; GitHub Stats</h2>
   <br>
@@ -68,19 +50,19 @@ Talking about Personal Stuffs:
 <p align=center>
   <div align=center>
     <a href="https://github.com/denvercoder1/github-readme-streak-stats" title="Go to Source">
-      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&hide_title=true&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
+      <img align="left" width=396 src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=react&border=61dafb&hide_border=true" alt="zumrudu-anka" />
     </a>
     <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source">
-      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=juancv3d&hide_title=true&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
+      <img align="right" width=396 src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=react&border_color=61dafb&hide_border=true" />
     </a>
   </div>
- <br><br><br><br><br><br><br><br><br>
-  <!-- 
+  <br><br><br><br><br><br><br><br><br>
   <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancv3d&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
-    </a> 
-  </div>-->
+    </a>
+  </div>
   <br>
-  <img src="https://activity-graph.herokuapp.com/graph?username=juancv3d&hide_title=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+  <img src="https://activity-graph.herokuapp.com/graph?username=zumrudu-anka&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
+
