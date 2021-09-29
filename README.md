@@ -4,12 +4,13 @@
 Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical designer and Hacker Enthusiast from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [Impressio Technologies](https://www.3dimpressio.co).
 
 **Talking about Personal Stuffs:**
-
+<h5 align=center>
 - 🔭 I'm studyng Mechanical Engineering
 - 👨🏽‍💻 I’m currently working on a [Crypto Tweets Notifier](https://cryptotweets.netlify.app) :wink:
 - 🌱 I’m currently learning Web Development and Ethical Hacking
 - 💬 Ask me about anything!
 - 📫 How to reach me:
+  </h5>
   
   &nbsp; [<img src="https://img.icons8.com/color/48/000000/twitter.png" width="4%"/>](https://twitter.com/juancv3d)  &nbsp; [<img src="https://img.icons8.com/color/48/000000/linkedin.png" width="4%"/>](https://www.linkedin.com/in/juan-camilo-villarreal-0a5033178/)   &nbsp; [<img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="4%"/>](https://www.instagram.com/juancv3d/)  &nbsp; <a href="mailto:juancvilla96@gmail.com"> <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="4%"/>
 
@@ -45,7 +46,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
  </p>
  -->
 
-<h2 align="center">⚡ Stats ⚡</h2>
+<h2 align="center">&#x1f4c8; GitHub Stats</h2>
 <br>
 <p align=center>
   <div align=center>
