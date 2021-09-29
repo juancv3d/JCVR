@@ -31,7 +31,7 @@ Talking about Personal Stuffs:
 🔧 Technologies & Tools
   </h2>
   <p align=center>
-![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+    !<a refhttps://img.shields.io/badge/-Python-black?style=flat-square&logo=Python></a>
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&logo=GNU%20bash&message=Bash&color=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&color=black)
 ![Vim](https://img.shields.io/static/v1?style=flat-square&label=&logo=Vim&message=Vim&color=black)
