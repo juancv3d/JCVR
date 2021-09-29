@@ -84,4 +84,3 @@ Talking about Personal Stuffs:
   <br>
   <img src="https://activity-graph.herokuapp.com/graph?username=juancv3d&hide_title=true&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </p>
-
