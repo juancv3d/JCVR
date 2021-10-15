@@ -51,7 +51,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <p align=center>
-  <div align=center>
+  <div align=center style="display: flex; flex-direction: row;">
     <a href="https://www.3dimpressio.co/" title="Go to Source">
       <img align="left" width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=radical&border=61dafb&hide_border=true" alt="juancv3d" />
     </a>
