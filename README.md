@@ -10,7 +10,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical desi
 **Talking about Personal Stuffs:**
 
 - 🔭 I'm studyng Mechanical Engineering
-- 👨🏽‍💻 I’m currently working on my own delta 3d printer design:wink:
+- 👨🏽‍💻 I’m currently working on my own version of the 3d printer [Mini-Kossel]():wink:
 - 🌱 I’m currently learning Web Development and Ethical Hacking
 - 💬 Ask me about anything!
 - 📫 How to reach me:
