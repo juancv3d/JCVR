@@ -54,10 +54,10 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
   <div align=center style="display: flex; flex-direction: row;">
     <a href="https://www.3dimpressio.co/" title="Go to Source">
       <img align="left" height="140px" src="https://github-readme-streak-stats.herokuapp.com/?user=juancv3d&theme=material-palenight&border=61dafb&hide_border=true" alt="juancv3d" />
-    </a>
+<!--     </a>
     <a href="https://www.3dimpressio.co/" title="Go to Source">
       <img align="right" height="140px" src="https://github-readme-stats.vercel.app/api?username=juancv3d&show_icons=true&theme=material-palenight&hide=prs&border_color=61dafb&hide_border=true" />
-    </a>
+    </a> -->
   </div>
   <br><br><br><br><br><br><br><br><br>
  <!-- <div align=center>
