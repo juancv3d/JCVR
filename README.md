@@ -37,17 +37,6 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
 ![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
 ![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
 
-  <h2> &#x1f4c8; GitHub Stats</h2>
-  <br>
-   <p align=center>
-    <div>
-      <a href="https://www.3dimpressio.co/"><img align=left height="120px" src="https://github-readme-stats.vercel.app/api?username=juancv3d&hide_title=true&hide_border=true&show_icons=true&include_all_commits=true&count_private=true&line_height=15&text_color=000&icon_color=000&bg_color=0,ea6161,ffc64d,fffc4d,52fa5a&theme=graywhite" /><!-- wi*quL3fcV -->
-      </a>
-        <img align=rigth height="120px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancv3d&hide_title=true&hide_border=true&layout=compact&   langs_count=6&count_private=true&exclude_repo=false,Redventures-Movie-Quotes&text_color=000&icon_color=fff&bg_color=0,52fa5a,4dfcff,c64dff&theme=graywhite" />
-      </a>
-  </div>
- </p>
-
 
 <h2>&#x1f4c8; GitHub Stats</h2>
 <p align=center>
@@ -60,12 +49,12 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
     </a> 
   </div>
   <br><br><br><br><br><br><br><br><br>
- <div align=center>
+<!--  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
       <img width=325 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=juancv3d&hide=c%23,powershell,Mathematica,Ruby,Objective-C,Objective-C%2b%2b,Cuda&title_color=61dafb&text_color=ffffff&icon_color=61dafb&bg_color=20232a&langs_count=8&layout=compact&border_color=61dafb&hide_border=true" />
     </a>
   </div>
   <br>
 <img src="https://activity-graph.herokuapp.com/graph?username=juancv3d&theme=material-palenight&hide_title=true&border_color=61dafb&hide_border=true" width="100%">
-</p> 
+</p>  -->
 
