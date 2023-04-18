@@ -48,7 +48,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
     </a> 
   </div>
   <br><br><br><br><br><br><br><br><br>
-    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juancv3d&theme=material-palenight&bg_color=20232a&hide_border=true" width="100%"/>
+    <img src="https://github-readme-activity-graph.cyclic.app/graph?username=juancv3d&theme=material-palenight&hide_border=true&border_color=61dafb" width="100%"/>
   </p>
 <!--  <div align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
