@@ -19,23 +19,22 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&logo=GNU%20bash&message=Bash&color=black)
+![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&color=black)
-![Vim](https://img.shields.io/static/v1?style=flat-square&label=&logo=Vim&message=Vim&color=black)
 ![Matlab](https://img.shields.io/static/v1?style=flat-square&label=&logo=Matrix&message=MATLAB&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&color=black)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Kali](https://img.shields.io/static/v1?style=flat-square&label=&logo=Kali%20Linux&message=Kali&color=black)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-![Burp Suite](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Burp%20Suite&color=black)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![VBox](https://img.shields.io/static/v1?style=flat-square&label=&logo=VirtualBox&message=VitualBox&color=black)
-![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&color=black)
-![Fusion 360](https://img.shields.io/static/v1?style=flat-square&label=&logo=autodesk&message=Fusion%20360&color=black)
-![Prusa Slicer](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Prusa%20Slicer&color=black)
-![Marlin](https://img.shields.io/static/v1?style=flat-square&label=&logo=&message=Marlin%202.0&color=black)
-![Ink](https://img.shields.io/static/v1?style=flat-square&label=&logo=inkscape&message=Inkscape&color=black)
-![Adobe](https://img.shields.io/static/v1?style=flat-square&label=&logo=Adobe&message=Adobe&color=black)
+![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white) 
+![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
+![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-C51A4A?style=flat-square&logo=Raspberry-Pi&color=black)
+
 
 
 <h2>&#x1f4c8; GitHub Stats</h2>
