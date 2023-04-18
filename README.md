@@ -19,9 +19,9 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
 
 ## 🔧 Technologies & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?&logo=TensorFlow&color=black)
+![TensorFlow](https://img.shields.io/badge/-TensorFlow-000?style=flat-square&logo=TensorFlow&color=black)
 ![Bash](https://img.shields.io/static/v1?style=flat-square&label=&logo=GNU%20bash&message=Bash&color=black)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL&color=black)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=MySQL&color=black)
 ![VS Code](https://img.shields.io/badge/-VSCode-%23007ACC?style=flat-square&logo=visual-studio-code&color=black)
 ![Matlab](https://img.shields.io/static/v1?style=flat-square&label=&logo=Matrix&message=MATLAB&color=black)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
@@ -29,7 +29,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat-square&logo=linux)
 ![Kali](https://img.shields.io/static/v1?style=flat-square&label=&logo=Kali%20Linux&message=Kali&color=black)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90&color=black)
+![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS?style=flat-square&color=black)
 ![VBox](https://img.shields.io/static/v1?style=flat-square&label=&logo=VirtualBox&message=VitualBox&color=black)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
