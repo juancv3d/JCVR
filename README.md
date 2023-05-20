@@ -30,6 +30,7 @@ Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engi
 ![Kali](https://img.shields.io/static/v1?style=flat-square&label=&logo=Kali%20Linux&message=Kali&color=black)
 ![Apache2](https://img.shields.io/badge/Apache2-black?style=flat-square&logo=apache)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=Amazon-AWS&logoColor=F90)
+![GCP](https://img.shields.io/badge/-GCP-C51A4A?style=flat-square&logo=googlecloud&color=black)
 ![VBox](https://img.shields.io/static/v1?style=flat-square&label=&logo=VirtualBox&message=VitualBox&color=black)
 ![Notion](https://img.shields.io/badge/-Notion-000000?style=flat-square&logo=Notion&logoColor=white) 
 ![Arduino](https://img.shields.io/badge/Arduino-black?style=flat-square&logo=arduino)
