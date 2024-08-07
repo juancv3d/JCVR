@@ -5,7 +5,7 @@
   </a>
 </h1>
 
-Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engineer and Data Engineer from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at [TuPlaza](https://tuplazacolombia.co/).
+Hi, I'm [Juan Camilo Villarreal](https://github.com/juancv3d), a Mechanical Engineer and Data Engineer from Colombia ☕ with high experience in 3d design and additive manufacturing, currently working at Capgemini.
 
 **Talking about Personal Stuffs:**
 
